@@ -1,0 +1,535 @@
+[Workspace Header]
+Version = 1500
+Pathname Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Pathname Line0002 = "ger/FlourImager.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2015"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2015"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "FlourImager.prj"
+Drag Bar Left = 221
+Window Top = 36
+Window Left = 373
+Window Bottom = 817
+Window Right = 949
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 24
+Window Confinement Region Enabled = True
+MainColumnWidth = 204
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1500
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Program Files (x86)/National Instruments/Shared/CVI/Bin/nivision.lfp"
+File Type = "Function Panel"
+Disk Date = 3538058162
+In Projects = "1,"
+
+[File 0002]
+Path Line0001 = "/C/Program Files (x86)/National Instruments/Shared/CVI/toolslib/custctrl/daqmxio"
+Path Line0002 = "ctrl.fp"
+File Type = "Function Panel"
+Disk Date = 3507185514
+In Projects = "1,"
+
+[File 0003]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/PSBPandRA.c"
+File Type = "CSource"
+Disk Date = 3540406668
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 7
+Source Window State = "1,360,362,360,4,27,4,0,3,60,0,69,0,0,0,25,351,0,362,27,349,555,1,0,"
+
+[File 0004]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/FlourImager.c"
+File Type = "CSource"
+Disk Date = 3540426188
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 1
+Source Window State Line0001 = "1,6975,6975,6975,108,113,108,0,0,123,0,6459,0,0,0,42,6993,0,7014,38,349,555,1,18"
+Source Window State Line0002 = ","
+
+[File 0005]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/FlourImager.uir"
+File Type = "User Interface Resource"
+Disk Date = 3540405653
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Window Height = 349
+Window Width = 555
+Window Z-Order = 5
+
+[File 0006]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/labj2.c"
+File Type = "CSource"
+Disk Date = 3536346102
+In Projects = "1,"
+Window Top = 152
+Window Left = 66
+Window Z-Order = 16
+Source Window State = "1,237,240,240,4,93,93,0,3,80,0,147,0,0,0,25,202,0,237,4,349,715,1,18,"
+
+[File 0007]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/FlourImager.h"
+File Type = "Include"
+Disk Date = 3540405653
+In Projects = "1,"
+Window Top = 122
+Window Left = 50
+Window Z-Order = 3
+Source Window State = "1,26,26,26,9,23,23,0,3,80,0,48,0,0,0,25,14,0,26,9,349,715,1,18,"
+
+[File 0008]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/FluorImg.h"
+File Type = "Include"
+Disk Date = 3540426196
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 2
+Source Window State = "1,497,498,497,26,27,26,0,0,80,0,240,0,0,0,25,466,0,499,11,349,715,1,18,"
+
+[File 0009]
+Path = "/c/Users/Evan/Documents/National Instruments/CVI/ljackuw.h"
+File Type = "Include"
+Disk Date = 3524744107
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Window Z-Order = 17
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,123,0,40,35,349,715,1,0,"
+
+[File 0010]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/Save and Open.c"
+File Type = "CSource"
+Disk Date = 3537378669
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 10
+Source Window State = "1,61,64,61,4,72,4,0,0,80,0,110,0,0,0,25,73,0,85,13,349,715,1,18,"
+
+[File 0011]
+Path Line0001 = "/c/Users/Public/Documents/National Instruments/CVI/Samples/DAQmx/Analog In/Measu"
+Path Line0002 = "re Voltage/Acq-Int Clk-Dig Ref/Acq-IntClk-DigRef.c"
+File Type = "CSource"
+Disk Date = 3530285071
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Window Z-Order = 18
+Source Window State = "1,193,282,193,0,0,0,0,0,75,0,126,0,0,0,25,126,0,126,17,349,675,1,18,"
+
+[File 0012]
+Path = "/c/Program Files (x86)/National Instruments/Shared/CVI/include/nidaqmx.h"
+File Type = "Include"
+Disk Date = 3507203054
+In Projects = ""
+Window Top = 212
+Window Left = 106
+Window Z-Order = 19
+Source Window State = "1,2412,2412,2412,18,32,32,0,3,80,0,0,0,0,0,25,2397,0,2412,18,349,715,1,0,"
+
+[File 0013]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/PSBPandRA.h"
+File Type = "Include"
+Disk Date = 3540219042
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Window Z-Order = 8
+Source Window State = "1,20,20,20,0,44,44,0,0,80,0,0,0,0,0,25,0,0,5,4,349,715,1,18,"
+
+[File 0014]
+Path = "/c/Program Files (x86)/National Instruments/Vision/Include/nivision.h"
+File Type = "Include"
+Disk Date = 3538058162
+In Projects = "1,"
+Window Top = 272
+Window Left = 130
+Window Z-Order = 23
+Source Window State = "1,2552,2552,2552,19,31,31,0,0,80,0,192,0,0,0,25,5637,41,5649,100,349,715,1,13,"
+
+[File 0015]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/ImageProcessing.c"
+File Type = "CSource"
+Disk Date = 3540050929
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 6
+Source Window State = "1,35,39,35,116,116,116,0,0,80,0,120,0,0,0,25,201,0,211,53,349,715,1,18,"
+
+[File 0016]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/Tables.c"
+File Type = "CSource"
+Disk Date = 3540404266
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 15
+Source Window State = "1,310,310,310,57,63,63,0,0,80,0,78,10,0,0,25,49,0,283,45,349,715,1,18,"
+
+[File 0017]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/formatio.h"
+File Type = "Include"
+Disk Date = 3527810749
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 9
+Source Window State = "1,63,63,63,8,16,16,0,3,80,0,0,0,0,0,25,51,0,63,8,349,715,1,0,"
+
+[File 0018]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/Save and Open.h"
+File Type = "Include"
+Disk Date = 3536788036
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Window Z-Order = 13
+Source Window State = "1,10,11,11,0,81,81,0,0,80,0,0,0,0,0,25,0,0,10,0,349,715,1,0,"
+
+[File 0019]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/PCO_err.h"
+File Type = "Include"
+Disk Date = 3488258168
+In Projects = ""
+Window Top = 182
+Window Left = 87
+Window Z-Order = 24
+Source Window State = "1,163,163,163,8,19,19,0,0,80,0,0,0,0,0,25,151,0,162,14,349,715,1,0,"
+
+[File 0020]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/Utility_Fn.c"
+File Type = "CSource"
+Disk Date = 3537212365
+In Projects = "1,"
+Window Top = 218
+Window Left = 106
+Window Z-Order = 12
+Source Window State = "1,71,71,71,4,68,4,0,0,80,0,0,0,0,0,25,0,0,14,74,349,715,1,0,"
+
+[File 0021]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/Utility_Fn.h"
+File Type = "Include"
+Disk Date = 3537210059
+In Projects = "1,"
+Window Top = 38
+Window Left = 11
+Window Z-Order = 11
+Source Window State = "1,34,34,34,54,55,54,0,0,80,0,0,0,0,0,25,0,0,34,56,349,715,1,0,"
+
+[File 0022]
+Path Line0001 = "/c/Program Files (x86)/National Instruments/Shared/MSDTRedistributables/SDKHeade"
+Path Line0002 = "rFiles/8.1/minwindef.h"
+File Type = "Include"
+Disk Date = 3517327374
+In Projects = ""
+Window Top = 74
+Window Left = 30
+Window Z-Order = 4
+Source Window State = "1,158,158,158,28,32,32,0,0,80,0,0,0,0,0,25,180,0,192,8,349,715,1,0,"
+
+[File 0023]
+Path = "/c/Program Files (x86)/National Instruments/CVI2015/include/userint.h"
+File Type = "Include"
+Disk Date = 3517452000
+In Projects = ""
+Window Top = 110
+Window Left = 49
+Window Z-Order = 22
+Source Window State = "1,2312,2312,2312,12,29,29,0,3,80,0,0,0,0,0,25,2300,0,2312,12,349,715,1,0,"
+
+[File 0024]
+Path = "/c/Program Files (x86)/National Instruments/CVI2015/toolslib/toolbox/toolbox.h"
+File Type = "Include"
+Disk Date = 3517452000
+In Projects = ""
+Window Top = 218
+Window Left = 106
+Window Z-Order = 20
+Source Window State = "1,554,554,554,24,48,48,0,0,80,0,0,0,0,0,25,542,0,552,32,349,715,1,0,"
+
+[File 0025]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/calibration.c"
+File Type = "CSource"
+Disk Date = 3522251004
+In Projects = "1,"
+Window Top = 152
+Window Left = 66
+Window Z-Order = 21
+Source Window State = "1,8,8,8,4,12,12,0,3,80,0,12,0,12,0,25,0,0,8,4,349,715,1,0,"
+
+[File 0026]
+Path = "/c/Program Files (x86)/National Instruments/CVI2015/include/rs232.h"
+File Type = "Include"
+Disk Date = 3517452000
+In Projects = ""
+Window Top = 110
+Window Left = 49
+Window Z-Order = 14
+Source Window State = "1,53,53,53,12,17,17,0,3,80,0,0,0,0,0,25,41,0,53,12,349,715,1,0,"
+
+[File 0027]
+Path Line0001 = "/c/Users/Public/Documents/National Instruments/CVI/Samples/DAQmx/Analog In/Measu"
+Path Line0002 = "re Voltage/Acq-Int Clk-Dig Ref/Acq-IntClk-DigRef.uir"
+File Type = "User Interface Resource"
+Disk Date = 3530806305
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Height = 349
+Window Width = 715
+
+[File 0028]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/labj2~cvi232141.uir"
+File Type = "User Interface Resource"
+Disk Date = 3521416901
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Height = 349
+Window Width = 555
+
+[File 0029]
+Path Line0001 = "/c/Users/Public/Documents/National Instruments/CVI/Samples/DAQmx/Analog In/Measu"
+Path Line0002 = "re Voltage/Acq-Int Clk-Dig Ref/Acq-IntClk-DigRef.h"
+File Type = "Include"
+Disk Date = 3530806305
+In Projects = "1,"
+Window Top = 242
+Window Left = 122
+Source Window State = "1,21,21,21,9,19,19,0,0,0,0,0,0,0,0,0,3,0,23,46,349,715,1,0,"
+
+[File 0030]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/labj2.h"
+File Type = "Include"
+Disk Date = 3527199025
+In Projects = "1,"
+Window Top = 242
+Window Left = 114
+Source Window State = "1,7,58,7,0,28,0,0,0,0,0,0,0,0,0,0,0,0,16,62,349,715,1,11,"
+
+[File 0031]
+Path Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Path Line0002 = "ger/Tables.h"
+File Type = "Include"
+Disk Date = 3535478573
+In Projects = "1,"
+Window Top = 36
+Window Left = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,349,555,1,0,"
+
+[File 0032]
+Path = "/c/Users/Evan/Documents/National Instruments/CVI/ljackuw.lib"
+File Type = "Library"
+Disk Date = 3521554725
+In Projects = "1,"
+
+[File 0033]
+Path = "/c/Windows/System32/NIVision.dll"
+File Type = "DLL"
+Disk Date = 3516713734
+In Projects = "1,"
+
+[File 0034]
+Path = "/c/Program Files (x86)/National Instruments/Vision/Lib/MSVC/nivision.lib"
+File Type = "Library"
+Disk Date = 3538058162
+In Projects = "1,"
+
+[File 0035]
+Path = "/c/Program Files (x86)/Digital Camera Toolbox/pco.sdk/lib/Pco_conv.lib"
+File Type = "Library"
+Disk Date = 3495444376
+In Projects = "1,"
+
+[File 0036]
+Path = "/c/Program Files (x86)/Digital Camera Toolbox/pco.sdk/lib/SC2_Cam.lib"
+File Type = "Library"
+Disk Date = 3496386912
+In Projects = "1,"
+
+[Tab Order]
+Tab 0001 = "/c/Users/Evan/Documents/National Instruments/CVI/ljackuw.h"
+Tab 0002 Line0001 = "/c/Users/Public/Documents/National Instruments/CVI/Samples/DAQmx/Analog In/Measu"
+Tab 0002 Line0002 = "re Voltage/Acq-Int Clk-Dig Ref/Acq-IntClk-DigRef.c"
+Tab 0003 = "/c/Program Files (x86)/National Instruments/Shared/CVI/include/nidaqmx.h"
+Tab 0004 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0004 Line0002 = "ger/ImageProcessing.c"
+Tab 0005 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0005 Line0002 = "ger/FlourImager.uir"
+Tab 0006 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0006 Line0002 = "ger/Tables.c"
+Tab 0007 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0007 Line0002 = "ger/FluorImg.h"
+Tab 0008 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0008 Line0002 = "ger/FlourImager.c"
+Tab 0009 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0009 Line0002 = "ger/PSBPandRA.c"
+Tab 0010 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0010 Line0002 = "ger/PSBPandRA.h"
+Tab 0011 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0011 Line0002 = "ger/Utility_Fn.h"
+Tab 0012 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0012 Line0002 = "ger/Utility_Fn.c"
+Tab 0013 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0013 Line0002 = "ger/Save and Open.c"
+Tab 0014 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0014 Line0002 = "ger/formatio.h"
+Tab 0015 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0015 Line0002 = "ger/Save and Open.h"
+Tab 0016 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0016 Line0002 = "ger/labj2.c"
+Tab 0017 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0017 Line0002 = "ger/PCO_err.h"
+Tab 0018 Line0001 = "/c/Program Files (x86)/National Instruments/Shared/MSDTRedistributables/SDKHeade"
+Tab 0018 Line0002 = "rFiles/8.1/minwindef.h"
+Tab 0019 = "/c/Program Files (x86)/National Instruments/Vision/Include/nivision.h"
+Tab 0020 = "/c/Program Files (x86)/National Instruments/CVI2015/include/userint.h"
+Tab 0021 = "/c/Program Files (x86)/National Instruments/CVI2015/toolslib/toolbox/toolbox.h"
+Tab 0022 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0022 Line0002 = "ger/calibration.c"
+Tab 0023 = "/c/Program Files (x86)/National Instruments/CVI2015/include/rs232.h"
+Tab 0024 Line0001 = "/c/Users/Evan/Google Drive/Instrumentation/Flourescence Imager/Software/FlourIma"
+Tab 0024 Line0002 = "ger/FlourImager.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
